@@ -39,8 +39,8 @@ Open a terminal in the project folder and run:
 ```bash
 pip install -r requirements.txt
 
-
 pip install pyinstaller
+```
 
 dist/service.exe
 
